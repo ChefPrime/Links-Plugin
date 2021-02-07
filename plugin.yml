@@ -3,7 +3,7 @@ name: links
 version: 0.0.1
 main: WolfDen133\links\Main
 api: 3.17.2
-author:ChefPrime
+ author:ChefPrime
 
 commands:
   links:
