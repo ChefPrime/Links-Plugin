@@ -14,7 +14,7 @@ class Main extends PluginBase{
     {
         switch ($command->getName()){
             case "links":
-                $sender->sendMessage("<§a=====§l§3LINKS§r§a=====§f>\n\n §7> §l§cBuyCraft: §r§b§ohttps://vodakmc.tebex.io/\n §7> §l§cDiscord: §r§b§ohttps://discord.gg/fppaCN82SN\n §7> §l§cVote: §r§o§7 Coming soon\n\n §l<§r§a==============§f§l>§r");
+                $sender->sendMessage("<§a=====§l§3LINKS§r§a=====§f>\n\n §7> §l§cBuyCraft: §r§b§ohttps://vodakmc.tebex.io/\n §7> §l§cDiscord: §r§b§ohttps://discord.gg/fppaCN82SN\n §7> §l§cVote: §r§o§7 Coming soon!\n\n §l<§r§a==============§f§l>§r");
         }
         return true;
     }
